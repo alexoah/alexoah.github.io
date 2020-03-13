@@ -8,5 +8,5 @@ Done projects for practicing:
 
 More updates will be listed later. Thanks for visiting!
 
-##
+---
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="16px" height="16px"><span style="font-size:0.8em;">Created by [@alexoah](http://github.com/alexoah) at GitHub.</span>
