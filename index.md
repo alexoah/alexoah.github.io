@@ -8,5 +8,4 @@ Done projects for practicing:
 
 More updates will be listed later. Thanks for visiting!
 
-##
-<sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="16px" height="16px"><span style="font-size:0.5em;">Created by [@alexoah](http://github.com/alexoah) at GitHub.</span>
