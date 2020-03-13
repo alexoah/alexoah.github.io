@@ -7,3 +7,6 @@ Done projects for practicing:
 - [Communicating using Markdown](https://alexoah.github.io/labGithub-CommunicatingUsingMarkdown/)
 
 More updates will be listed later. Thanks for visiting!
+
+##
+<sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
